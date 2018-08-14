@@ -1,4 +1,5 @@
 # devops-aula2
 Will Smith
-Jeniffer Lawrence
+Jackie Chan
 Jim Carry
+Terry Crews
